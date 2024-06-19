@@ -1,0 +1,39 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+plantapp_frontend/node_modules/
+plantapp_frontend/.env
+
+plantapp_backend/uploads/
+plantapp_backend/.env
+# Expo
+plantapp_frontend/.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+plantapp_backend/.env*.local
+
+
+# typescript
+*.tsbuildinfo
