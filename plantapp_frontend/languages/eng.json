@@ -1,0 +1,33 @@
+{
+    "bottomNavBar": {
+        "history": "History",
+        "diagnosis": "Diagnosis",
+        "settings": "Settings"
+    },
+    "header": {
+        "settings": "PlantApp",
+        "history": "History",
+        "singleHistory": "History"
+    },
+    "history": {
+        "empty": "There is nothing to be shown here at this moment."
+    },
+    "diagnosis": {
+        "selectImage": "Select Image",
+        "takePhoto": "Take Photo",
+        "getInsights": "Get Insights",
+        "symptoms": "Symptoms",
+        "rootCause": "Root Cause",
+        "treatment": "Treatment",
+        "prevention": "Preventive Measures",
+        "anotherSearch": "Another Search",
+        "healthyText": "Good News, you have nothing do worry about. Your plant is healthy.",
+        "footnote": "The best result can be obtained by uploading the picture of a single leaf of the plant with a clear background. This application can only identify the healthyness of certain types of plants."
+    },
+    "settings": {
+        "language": "Language",
+        "theme": "Theme",
+        "about": "About",
+        "aboutText": "This application is a graduation project by Muhammed Yılmaz. It uses a deep neural network model on the backend side to recognise the plant and the disease first, then it communicates with OpenAI's GPT api to get necessary information related to disease."
+    }
+}

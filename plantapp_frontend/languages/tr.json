@@ -1,0 +1,34 @@
+{
+    "bottomNavBar": {
+        "history": "Geçmiş",
+        "diagnosis": "Teşhis",
+        "settings": "Ayarlar"
+    },
+    "header": {
+        "settings": "PlantApp",
+        "history": "Geçmiş",
+        "singleHistory": "Geçmiş"
+    },
+    "history": {
+        "empty": "Şuanda gösterilecek bir şey yok."
+    },
+    "diagnosis": {
+        "selectImage": "Galeriden Seç",
+        "takePhoto": "Fotoğraf Çek",
+        "getInsights": "Teşhis Et",
+        "symptoms": "Semptomlar",
+        "rootCause": "Ana Sebep",
+        "treatment": "Tedavi",
+        "prevention": "Önlemler",
+        "anotherSearch": "Başka Bir Bitki Dene",
+        "healthyText": "Haberler iyi, endişelenecek bir şey yok. Bitkiniz oldukça sağlıklı.",
+        "footnote": "En iyi sonucu bitkinin yalnızca tek yaprağı gözükecek ve arkaplanı temiz olacak şekilde fotoğrafını çekerek alırsınız. Bu uygulama yalnızca belirli bitki türleri için tespit yapabilmektedir."
+    },
+    "settings": {
+        "language": "Dil",
+        "theme": "Tema",
+        "about": "Hakkında",
+        "aboutText": "Bu uygulama Muhammed Yılmaz'ın bitirme projesi olarak geliştirilmiştir. Arka planda derin sinir ağları yardımıyla bitki ve bitkinin sahip olduğu hastalık (varsa) tespit edilir. Ardından ChatGPT aracılığıyla hastalığı ait bilgiler alınıp kullanıcıya dönülür."
+        
+    }
+}
