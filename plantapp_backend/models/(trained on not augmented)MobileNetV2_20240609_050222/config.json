@@ -1,0 +1,16 @@
+{
+    "model": "MobileNetV2",
+    "optimizer": {
+        "type": "SGD",
+        "learning_rate": 0.005,
+        "momentum": 0.9,
+        "weight_decay": 0.0005
+    },
+    "scheduler": {
+        "type": "StepLR",
+        "step_size": 10,
+        "gamma": 0.1
+    },
+    "num_epochs": 30,
+    "batch_size": 32
+}
